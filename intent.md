@@ -14,7 +14,7 @@ Sources: `inputs/01-approved-prd.md` (PRD, approved 2026-09-18), `inputs/02-curr
 - **I-2** "Ready" means a doctor has reviewed **and** released the result. A completed laboratory upload alone does not make a notification eligible.
   > PRD: "A doctor must review and release the result before any notification is eligible."
   > Discovery (product owner): "keep the PRD's review-before-notification gate. 'Ready' must not mean that the laboratory upload merely finished."
-- **I-3** The notification only says that an update is available and directs the patient to the existing authenticated portal.
+- **I-3** The notification only says an update is available and directs the patient to the existing authenticated portal.
   > PRD: "The notification says that an update is available and directs the patient to the existing authenticated portal."
 
 ### How success will be observed
